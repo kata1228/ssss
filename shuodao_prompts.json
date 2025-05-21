@@ -1,0 +1,106 @@
+{
+  "title": "蜀道难 - 李白诗作分镜提示词",
+  "description": "基于李白《蜀道难》诗作的视觉化分镜头提示词",
+  "version": "1.0",
+  "author": "AI Assistant",
+  "shots": [
+    {
+      "shot_number": 1,
+      "verse": "噫吁嘻，危乎高哉！蜀道之难，难于上青天！",
+      "prompt": "/imagine prompt: epic aerial view of treacherous Sichuan mountain path, towering cliffs reaching into clouds, ancient Chinese landscape painting style, mist-shrouded peaks, dramatic scale, humans looking tiny against mountains, cinematic wide shot, golden hour lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "开场全景，展现蜀道的险峻和磅礴",
+      "duration": "6s"
+    },
+    {
+      "shot_number": 2,
+      "verse": "蚕丛及鱼凫，开国何茫然！",
+      "prompt": "/imagine prompt: ancient Chinese settlement in mountain valley, historical architecture, morning mist, early civilization scene, ethereal atmosphere, documentary style, aerial perspective, soft diffused lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现古蜀国的历史场景",
+      "duration": "4s"
+    },
+    {
+      "shot_number": 3,
+      "verse": "尔来四万八千岁，不与秦塞通人烟。",
+      "prompt": "/imagine prompt: isolated mountain path through time, ancient stone steps weathered by time, dramatic clouds movement, timelapse effect, no human presence, mystical atmosphere, epic scale landscape --ar 16:9 --v 5 --q 2",
+      "shot_description": "时间流逝，展现蜀道的荒凉与隔绝",
+      "duration": "5s"
+    },
+    {
+      "shot_number": 4,
+      "verse": "西当太白有鸟道，可以横绝峨眉巅。",
+      "prompt": "/imagine prompt: narrow mountain path along cliff face, birds flying through clouds, Mount Emei in background, dangerous cliff edges, vertical composition, dramatic lighting, scale reference with birds --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现太白山与峨眉山之间的险峻地形",
+      "duration": "5s"
+    },
+    {
+      "shot_number": 5,
+      "verse": "地崩山摧壮士死，然后天梯石栈相钩连。",
+      "prompt": "/imagine prompt: ancient wooden scaffolding and stone steps along cliff face, dramatic rockfall, warrior silhouettes, dangerous mountain path, intense atmospheric perspective, epic scale, dramatic lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现修建蜀道的艰险与牺牲",
+      "duration": "6s"
+    },
+    {
+      "shot_number": 6,
+      "verse": "上有六龙回日之高标，下有冲波逆折之回川。",
+      "prompt": "/imagine prompt: majestic mountain peaks piercing clouds, dramatic sun rays like dragon's breath, raging river below, Chinese mythology style, epic scale, dynamic composition, golden hour lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现上天入地的极端地势",
+      "duration": "5s"
+    },
+    {
+      "shot_number": 7,
+      "verse": "黄鹤之飞尚不得过，猿猱欲度愁攀援。",
+      "prompt": "/imagine prompt: yellow crane flying through mountain peaks, monkeys climbing steep cliffs, sense of impossible height, atmospheric mist, dynamic composition, traditional Chinese painting style --ar 16:9 --v 5 --q 2",
+      "shot_description": "通过动物展现道路的险峻",
+      "duration": "4s"
+    },
+    {
+      "shot_number": 8,
+      "verse": "青泥何盘盘，百步九折萦岩峦。",
+      "prompt": "/imagine prompt: winding mountain path with steep switchbacks, green moss-covered stones, vertigo-inducing view, spiral composition, atmospheric fog, dramatic perspective --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现蜀道的盘旋曲折",
+      "duration": "5s"
+    },
+    {
+      "shot_number": 9,
+      "verse": "扪参历井仰胁息，以手抚膺坐长叹。",
+      "prompt": "/imagine prompt: exhausted traveler resting on mountain path, looking up at stars, emotional moment, intimate shot, moonlit scene, atmospheric lighting, character-focused composition --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现行人的疲惫与感慨",
+      "duration": "4s"
+    },
+    {
+      "shot_number": 10,
+      "verse": "问君西游何时还？畏途巉岩不可攀。",
+      "prompt": "/imagine prompt: traveler looking back at treacherous mountain path, sunset casting long shadows, emotional farewell scene, sense of scale, epic landscape, golden hour lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现归途的艰难与不舍",
+      "duration": "5s"
+    },
+    {
+      "shot_number": 11,
+      "verse": "但见悲鸟号古木，雄飞雌从绕林间。",
+      "prompt": "/imagine prompt: ancient trees in misty mountains, birds circling through fog, melancholic atmosphere, traditional Chinese ink painting style, dynamic bird movement, atmospheric lighting --ar 16:9 --v 5 --q 2",
+      "shot_description": "展现山间凄凉的氛围",
+      "duration": "4s"
+    },
+    {
+      "shot_number": 12,
+      "verse": "又闻子规啼夜月，愁空山。",
+      "prompt": "/imagine prompt: moonlit mountain scene, cuckoo bird silhouette, emotional night atmosphere, lonely mountain peaks, mysterious fog, cool blue moonlight, intimate composition --ar 16:9 --v 5 --q 2",
+      "shot_description": "结尾展现夜晚的孤寂",
+      "duration": "5s"
+    }
+  ],
+  "technical_notes": {
+    "total_duration": "58s",
+    "recommended_settings": {
+      "style_consistency": "使用一致的艺术风格，融合中国传统山水画与现代电影摄影美学",
+      "color_palette": "以青绿山水为基调，配合金色阳光和月光的冷暖变化",
+      "transitions": "建议使用渐变和溶解转场，体现诗作的连贯性",
+      "music_suggestion": "建议使用中国古典音乐，以琴箫为主，营造磅礴与凄美氛围"
+    },
+    "post_processing": {
+      "color_grading": "强调山峦的层次感，增强大气透视效果",
+      "effects": "适当添加雾气和光线效果，强化空间感和氛围",
+      "pacing": "根据诗句情感强度调整画面节奏"
+    }
+  }
+} 
